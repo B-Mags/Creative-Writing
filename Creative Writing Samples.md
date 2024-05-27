@@ -1,15 +1,15 @@
-# Voice is important. So is pastiche. Here is my voice through various lenses. 
+## Voice is important. So is pastiche. Here is my voice through various lenses. 
 
-# Literary Fiction 
-
-
-# Hemmingway-Style 
+### Literary Fiction 
 
 
-# Purple Prose 
+### Hemmingway-Style 
 
 
-# Theatrical Soliloquy 
+### Purple Prose 
+
+
+### Theatrical Soliloquy 
 
 
 # 
