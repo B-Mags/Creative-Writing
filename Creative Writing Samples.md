@@ -36,7 +36,7 @@ her knuckles bared, <br>
 skin stretched translucent-thin— <br>
 she gripped them tightly: <br>
 her palm their ground, <br>
-her fingers bars imprisoning their souls. <br>
+her fingers: bars imprisoning their souls. <br>
 
 And relentless Time— <br>
 cyclic and rhapsodic— <br>
