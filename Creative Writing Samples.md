@@ -1,4 +1,5 @@
-## Voice is important. So is pastiche. Here is my voice through various lenses and using various devices. 
+## Voice is important. So is pastiche. So are literary devices. 
+### Here are some samples of my work. 
 
 ### Literary Fiction 
 
