@@ -1,19 +1,19 @@
-## Voice is important. So is pastiche. So are literary devices. 
+### Voice is important. So is pastiche. So are literary devices. 
 ### Here are some samples of my work. 
 
-### Literary Fiction 
+# Literary Fiction 
 
 
-### Hemmingway-Style 
+# Hemmingway-Style 
 
 
-### Purple Prose 
+# Purple Prose 
 
 
-### Theatrical Soliloquy 
+# Theatrical Soliloquy 
 
 
-### Epistolary
+# Epistolary
 
 My love, <br>
 	
