@@ -1,5 +1,4 @@
-### Voice is important. So is pastiche. So are literary devices. 
-### Here are some samples of my work. 
+### Here are some samples of my creative writing, organized by style/devices.  
 
 # Literary Fiction 
 
@@ -32,7 +31,9 @@ I’ve gone on quite long enough—I fear perhaps even too long. Why I write to 
 With all my love, <br>
 Yours <br>
 
-### Myth
+# Myth
+
+**An excerpt from Among the Reeds:**
 
 Cobourne was a small town and, like all other places, had its own lore.
 	
@@ -63,9 +64,9 @@ The family lived happily in Cobourne where the sea and shore were married by the
 They were a people destined to remain in Cobourne forever—to protect their home, and to die where they lived. Their collective song was a magnet that none born to the town were strong enough to pull away from. And so it goes that, even after death, their souls sung forever on the seaside, among the reeds, unable to exist in an afterlife that took them from their home. They remained specters eternally finding haven under the watchful eyes of the salt-skinned archers, anchored for eternity to Cobourne’s shore. <br>
 
 
-### Direct-Address 
+# Direct-Address 
 
-**An excerpt from Beatrice Mooney in Perpetuity**
+**An excerpt from Beatrice Mooney in Perpetuity:**
 
 Shall we begin with my childhood? <br> 
 
@@ -77,7 +78,7 @@ Why is it that I should tell you the end before the start? I suppose in my thirt
 	
 Should you fail to continue reading, know that you will also fail to learn the secret I've kept tucked away in my mind all these years with no way of releasing it. You should know: it's yours to have should you desire it. It is only fair that you know the truth before making any decisions. <br> 
 
-### Poetry 
+# Poetry 
 
 O, sweet Eternity— <br>
 her knuckles bared, <br>
