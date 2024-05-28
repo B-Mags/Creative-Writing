@@ -25,11 +25,18 @@ Should you fail to continue reading, know that you will also fail to learn the s
 # Hemmingway-Style 
 
 
-# Purple Prose 
 
+# Theatrical Monologue 
 
-# Theatrical Soliloquy 
+**Two monologue excerpts from *Fish*, a play in one act:** 
 
+<u>Monologue #1:</u> <br>
+
+**NOAH:** A prologue—an exordium in which I show you the end, which is perhaps an arbitrary moment, perhaps something more: a turning point, a failure, an achievement, no doubt a sum of all things prior—the feelings, thoughts, and actions. Decisions… a man broken down to nothing—or perhaps a man set free. Both or neither. I can tell you for certain it was hot—disgustingly hot. The air weighed too much; it pushed down on shoulders, creating an uncomfortable closeness, making clothes stick to a body like a second skin, another layer to tear through, to crawl out from, to hide beneath. Isn’t it the case that we are all always retreating beneath or clawing through our own skin? <br>
+
+<u>Monologue #2:</u> <br>
+
+**EMILY:** The leaves turn quickly from one color to the next, but every year there’s a brief window when just about all of them are red. If you go up on the mountain and look down, it looks like the entire town is on fire. That Autumn was mild, warm even. The leaves stayed red longer than usual. The town seemed to burn for weeks. It was a good few months. Everything was on fire. Everything was good. <br>
 
 # Epistolary
 
