@@ -1,6 +1,8 @@
-### Here are some samples of my creative writing, organized by style/devices.  
+### Here are some samples of my creative writing, organized by style/devices. Scroll through, or quick on one of the quick links below. 
 
 → [1. Direct Address](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#direct-address) <br>
+
+
 
 # Direct-Address 
 
@@ -26,7 +28,17 @@ Should you fail to continue reading, know that you will also fail to learn the s
 
 # Hemmingway-Style 
 
+**An excerpt from "Cul-de-Sac":**
 
+I live at 182 Morton Street. My house sits at the exact center of the cul-de-sac with three houses on either side, equidistant, geometric: a perfect vantage point. There are forty-two other houses in the subdivision. The grass is green. The people are chipper, not kind. There’s a difference. But it’s a bland routine they live, stale. The men leave in the morning, suit and tie, come back late in the evening after indulging in what they think is a torrid affair, when in all actuality, it, too, is just as overplayed and lifeless as their marriages. The women are pants-suit-super-moms. They rush about in expensive SUVs, clutching briefcases, holding on for dear life, remaining oblivious to their husbands for what I would label self-preservation. <br> 
+    	
+Routine. I sit at the window with coffee and the paper. I never read it; it’s not all that interesting, anyhow. I watch my neighbors. I film. I study. I can be like them, I think, if I try. They all leave for work by seven o’clock on the dot, their toddlers strapped in—first stop: daycare. It’s a young neighborhood: young couples with young children in recently built houses, not homes. There’s a difference. I appreciate them, they teach me how to be alive. They really have no idea how much they do for me by simply living. <br> 
+	
+It’s Monday, so when I walk out of my home, I take a left. I walk past two houses, and there’s the third. I take another left, this time into the driveway. I go up the walk and around to the back. The basement is partially above ground. There is a small window that I left unlocked for myself the first time—the one the family carelessly left open so many months ago. Before sliding in, I check on the flower growing in the dirt against the house; it’s small, delicate, yellow. It makes me happy. I moved it here from my own backyard—a gift for all they do, a testament to all they miss. <br> 
+    	
+After sliding through the window, I make my way up the stairs through the darkness. I open the door to a different world, a black-and-white world—chic and modern with silver appliances. Slowly, I wash my hands in the kitchen sink. The water rushes up, around, and out of the curved spout. Bubbles pop and form, pop and form. Twenty-five seconds and I’m finished. I dry my hands and begin my morning routine. <br>
+	
+I start a pot of coffee. This house, the third on the left, has a dark Ethiopian blend that the family grinds fresh each morning. As it brews, I walk into the living room and turn on the television. It’s already on channel four: news. This is what the family watches in the morning as they eat breakfast. They watch from the kitchen, so I do as well. I go back and pour myself coffee. I sit down at the table and drink. I stare intently at the news anchor on the enormous television. He’s handsome; his eyes are kind. He relays disaster after disaster, informs the world of its most flagrant faults. I try out some of the gestures he makes. I imagine someone gesturing to me. <br> 
 
 # Theatrical Monologue 
 
@@ -61,7 +73,7 @@ Yours <br>
 
 # Myth
 
-**An excerpt from Among the Reeds:**
+**An excerpt from "Among the Reeds":**
 
 Cobourne was a small town and, like all other places, had its own lore.
 	
