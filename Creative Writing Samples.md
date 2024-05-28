@@ -1,5 +1,5 @@
 # Creative Writing Samples by Brooke Magalis
-### The samples highlight various styles, forms, and devices. Scroll through, or click on one of the quick links below. <br>
+#### These samples highlight various styles, forms, and devices. Scroll through, or click on one of the quick links below. <br>
 *Please note that all samples are copyrighted.* 
 
 [1. Direct Address](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#direct-address) <br>
