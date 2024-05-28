@@ -1,5 +1,5 @@
-# Here are some samples of my creative writing, organized by style/devices. 
-### Scroll through, or quick on one of the quick links below. 
+# Creative Writing Samples by Brooke Magalis
+### The samples are organized by style/device. Scroll through, or click on one of the quick links below. 
 
 → [1. Direct Address](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#direct-address) <br>
 
