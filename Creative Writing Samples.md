@@ -1,5 +1,6 @@
 # Creative Writing Samples by Brooke Magalis
-### The samples are organized by style/device. Scroll through, or click on one of the quick links below. 
+### The samples are organized by style/device. Scroll through, or click on one of the quick links below. <br>
+*Please note that all samples are copyrighted.* 
 
 [1. Direct Address](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#direct-address) <br>
 <blockquote>→ Excerpted from Beatrice Mooney in Perpetuity (a Writers of the Future honorary mention, 2023) </blockquote>
@@ -7,7 +8,7 @@
 [2. Literary Fiction](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#literary-fiction)
 
 
-*Please note that all samples are copyrighted.* 
+
 
 ## Direct-Address 
 
