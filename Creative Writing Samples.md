@@ -148,9 +148,10 @@ time and again. <br>
 
 LYDIA, <br>
 MY LYDIA— <br>
-I’LL BE LIKE THE CRICKETS IN THE TREES, THE LEAVES IN THE BREEZE, <br>
+I’LL BE LIKE THE CRICKETS IN THE TREES, <br>
+THE LEAVES IN THE BREEZE, <br>
 THE YELLOW ON THE BEES: <br>
-ALWAYS THERE; I’LL NEVER LEAVE YOUR SIDE. LYDIA, I’LL BE THERE FOR YOU. <br>
+ALWAYS THERE; I’LL NEVER LEAVE YOUR SIDE. <br>
 
 **An excerpt from *Bohemia Burning*, a musical (\*received a 29-hour equity reading, 2018):** 
 
