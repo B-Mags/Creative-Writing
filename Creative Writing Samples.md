@@ -1,6 +1,6 @@
 ### Here are some samples of my creative writing, organized by style/devices.  
 
-→ [1. Direct Address] (https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#direct-address) <br>
+→ [1. Direct Address](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#direct-address) <br>
 
 # Direct-Address 
 
