@@ -3,8 +3,6 @@
 
 [1. Direct Address](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#direct-address) <br>
 <blockquote>→ Excerpted from Beatrice Mooney in Perpetuity (a Writers of the Future honorary mention, 2023) </blockquote><br>
-[2. Literary Fiction]([https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#direct-address](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#literary-fiction) <br>
-
 
 [2. Literary Fiction](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#literary-fiction)
 
