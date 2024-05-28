@@ -1,7 +1,7 @@
 # Creative Writing Samples by Brooke Magalis
 ### The samples are organized by style/device. Scroll through, or click on one of the quick links below. 
 
-→ [1. Direct Address](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#direct-address) <br>
+→ [1. Direct Address: Excerpted from Beatrice Mooney in Perpetuity \(a Writers of the Future honorary mention, 20213\)](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#direct-address) <br>
 
 
 
