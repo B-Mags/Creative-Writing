@@ -1,11 +1,11 @@
-## Here are some samples of my creative writing, organized by style/devices. 
+# Here are some samples of my creative writing, organized by style/devices. 
 ### Scroll through, or quick on one of the quick links below. 
 
 → [1. Direct Address](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#direct-address) <br>
 
 
 
-# Direct-Address 
+## Direct-Address 
 
 **An excerpt from Beatrice Mooney in Perpetuity \(\*a Writers of the Future honorary mention, 2023\):**
 
@@ -19,15 +19,15 @@ Why is it that I should tell you the end before the start? I suppose in my thirt
 	
 Should you fail to continue reading, know that you will also fail to learn the secret I've kept tucked away in my mind all these years with no way of releasing it. You should know: it's yours to have should you desire it. It is only fair that you know the truth before making any decisions. <br> 
 
-# Literary Fiction 
+## Literary Fiction 
 
 
 
-# Contemporary Fiction 
+## Contemporary Fiction 
 
 
 
-# Hemmingway-Style 
+## Hemmingway-Style 
 
 **An excerpt from "Cul-de-Sac":**
 
@@ -41,7 +41,7 @@ After sliding through the window, I make my way up the stairs through the darkne
 	
 I start a pot of coffee. This house, the third on the left, has a dark Ethiopian blend that the family grinds fresh each morning. As it brews, I walk into the living room and turn on the television. It’s already on channel four: news. This is what the family watches in the morning as they eat breakfast. They watch from the kitchen, so I do as well. I go back and pour myself coffee. I sit down at the table and drink. I stare intently at the news anchor on the enormous television. He’s handsome; his eyes are kind. He relays disaster after disaster, informs the world of its most flagrant faults. I try out some of the gestures he makes. I imagine someone gesturing to me. <br> 
 
-# Theatrical Monologue 
+## Theatrical Monologue 
 
 **Two monologue excerpts from *Fish*, a play in one act:** 
 
@@ -53,7 +53,7 @@ I start a pot of coffee. This house, the third on the left, has a dark Ethiopian
 
 **EMILY:** The leaves turn quickly from one color to the next, but every year there’s a brief window when just about all of them are red. If you go up on the mountain and look down, it looks like the entire town is on fire. That Autumn was mild, warm even. The leaves stayed red longer than usual. The town seemed to burn for weeks. It was a good few months. Everything was on fire. Everything was good. <br>
 
-# Epistolary
+## Epistolary
 
 My love, <br>
 	
@@ -72,7 +72,7 @@ I’ve gone on quite long enough—I fear perhaps even too long. Why I write to 
 With all my love, <br>
 Yours <br>
 
-# Myth
+## Myth
 
 **An excerpt from "Among the Reeds":**
 
@@ -104,7 +104,7 @@ The family lived happily in Cobourne where the sea and shore were married by the
 	
 They were a people destined to remain in Cobourne forever—to protect their home, and to die where they lived. Their collective song was a magnet that none born to the town were strong enough to pull away from. And so it goes that, even after death, their souls sung forever on the seaside, among the reeds, unable to exist in an afterlife that took them from their home. They remained specters eternally finding haven under the watchful eyes of the salt-skinned archers, anchored for eternity to Cobourne’s shore. <br>
 
-# Poetry 
+## Poetry 
 
 O, sweet Eternity— <br>
 her knuckles bared, <br>
@@ -124,7 +124,7 @@ we humans are our past. <br>
 We live time and again, <br>
 time and again. <br>
 
-# Musical Theatre Lyric 
+## Musical Theatre Lyric 
 
 **An excerpt from "Lydia" a short musical (\*featured at NYC's Prospect Theatre Company's Musical Theatre Lab, 2019):** 
 
