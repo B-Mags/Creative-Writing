@@ -2,7 +2,7 @@
 
 # Direct-Address 
 
-**An excerpt from Beatrice Mooney in Perpetuity \(a Writers of the Future honorary mention, 2023\):**
+**An excerpt from Beatrice Mooney in Perpetuity \(\*a Writers of the Future honorary mention, 2023\):**
 
 Shall we begin with my childhood? <br> 
 
@@ -108,3 +108,52 @@ we humans are our past. <br>
 
 We live time and again, <br>
 time and again. <br>
+
+# Musical Theatre Lyric 
+
+**An excerpt from "Lydia" a short musical (\*featured at NYC's Prospect Theatre Company's Musical Theatre Lab, 2019):** 
+
+LYDIA, <br>
+MY LYDIA— <br>
+I’LL BE LIKE THE CRICKETS IN THE TREES, THE LEAVES IN THE BREEZE, <br>
+THE YELLOW ON THE BEES: <br>
+ALWAYS THERE; I’LL NEVER LEAVE YOUR SIDE. LYDIA, I’LL BE THERE FOR YOU. <br>
+
+**An excerpt from *Bohemia Burning*, a musical (\*received a 29-hour equity reading, 2018):** 
+
+WHAT WILL NICK SEE WHEN HE LOOKS? <br>
+WILL HE KNOW I’M NOT WHO HE REMEMBERS? <br>
+WILL HE SEE THESE NEW EMBERS INSIDE ME <br>
+THAT ARE CATCHING AND HIDING THE OLD ME? <br>
+
+I FEEL SOMETHING SMOLD’RING DOWN INSIDE ME; <br> 
+THE SMOKE IS SLOWLY FILLING UP MY CHEST. <br>
+I FEEL EACH BREATH GETTING CAUGHT IN MY THROAT, <br> 
+AND EV’RY DAY SEEMS A BIT WORSE AT BEST. <br>
+I REMEMBER A TIME WHEN YOU LET ME BE, <br>
+BUT IT’S STARTING TO BLUR, I CONFESS. <br>
+I CAN’T SEE THE WORLD BEYOND YOU <br>
+‘CAUSE SMOKE’S HIDING ALL OF THE REST. <br>
+
+WHAT WILL NICK SEE WHEN HE LOOKS? <br>
+WILL HE THINK I’M UNHINGED LIKE THEY PAINT ME? <br> 
+WILL HE SEE HOW MY PAST STAYS INSIDE ME— <br>
+HOW YOU TWIST AND YOU BEND AND DEFINE ME? <br>
+
+I FEEL MYSELF BURNING FROM THE INSIDE; <br>
+THE HEAT’S BECOMING MORE THAN I CAN TAKE. <br>
+I FEEL THE THOUGHTS IN MY MIND TIED IN KNOTS, <br> 
+AND ANY DAY NOW, THAT ROPE’S GONNA BREAK. <br>
+
+I FORGOT WHAT IT’S LIKE TO HAVE ANY PRIDE— <br>
+I GIVE AND I GIVE AND YOU TAKE. <br>
+I’M TELLING YOU THIS HAS TO STOP <br>
+‘CAUSE BURNING DOES MORE THAN JUST ACHE. <br>
+
+WHAT WILL NICK SEE WHEN HE LOOKS? <br>
+WILL HE WATCH AS I SLIP INTO MADNESS? <br>
+WILL HE LEAVE AS THE FLAMES OVERCOME ME— <br>
+WILL HE KNOW IT’S YOU STRIKING THE MATCHES? <br>
+I’M BURNING. <br>
+
+
