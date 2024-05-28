@@ -7,6 +7,8 @@
 [2. Literary Fiction](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#literary-fiction)
 
 
+*Please note that all samples are copyrighted.* 
+
 ## Direct-Address 
 
 **An excerpt from Beatrice Mooney in Perpetuity \(\*a Writers of the Future honorary mention, 2023\):**
