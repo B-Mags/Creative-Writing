@@ -20,13 +20,25 @@ I stood, a then-very-small Beatrice Mooney. I was little more than a waif, all b
 	
 Why is it that I should tell you the end before the start? I suppose in my thirty years, I've had my fill of surprises and do not wish to unnecessarily bestow one any more than I wish to receive one. Do not be fooled by the happy ending to this tale, for—as you certainly must know—nothing in this life is quite what it seems, and a requirement of happiness is tribulation. You mustn’t ever forget that. <br>
 	
- This life is transactional. <br>  
+This life is transactional. <br>  
 	
 Should you fail to continue reading, know that you will also fail to learn the secret I've kept tucked away in my mind all these years with no way of releasing it. You should know: it's yours to have should you desire it. It is only fair that you know the truth before making any decisions. <br> 
 
 ## Literary Fiction 
 
 
+
+## Theatrical Monologue 
+
+**Two monologue excerpts from *Fish*, a play in one act:** 
+
+<u>Monologue #1:</u> <br>
+
+**NOAH:** A prologue—an exordium in which I show you the end, which is perhaps an arbitrary moment, perhaps something more: a turning point, a failure, an achievement, no doubt a sum of all things prior—the feelings, thoughts, and actions. Decisions… a man broken down to nothing—or perhaps a man set free. Both or neither. I can tell you for certain it was hot—disgustingly hot. The air weighed too much; it pushed down on shoulders, creating an uncomfortable closeness, making clothes stick to a body like a second skin, another layer to tear through, to crawl out from, to hide beneath. Isn’t it the case that we are all always retreating beneath or clawing through our own skin? <br>
+
+<u>Monologue #2:</u> <br>
+
+**EMILY:** The leaves turn quickly from one color to the next, but every year there’s a brief window when just about all of them are red. If you go up on the mountain and look down, it looks like the entire town is on fire. That Autumn was mild, warm even. The leaves stayed red longer than usual. The town seemed to burn for weeks. It was a good few months. Everything was on fire. Everything was good. <br>
 
 ## Contemporary Fiction 
 
@@ -45,18 +57,6 @@ It’s Monday, so when I walk out of my home, I take a left. I walk past two hou
 After sliding through the window, I make my way up the stairs through the darkness. I open the door to a different world, a black-and-white world—chic and modern with silver appliances. Slowly, I wash my hands in the kitchen sink. The water rushes up, around, and out of the curved spout. Bubbles pop and form, pop and form. Twenty-five seconds and I’m finished. I dry my hands and begin my morning routine. <br>
 	
 I start a pot of coffee. This house, the third on the left, has a dark Ethiopian blend that the family grinds fresh each morning. As it brews, I walk into the living room and turn on the television. It’s already on channel four: news. This is what the family watches in the morning as they eat breakfast. They watch from the kitchen, so I do as well. I go back and pour myself coffee. I sit down at the table and drink. I stare intently at the news anchor on the enormous television. He’s handsome; his eyes are kind. He relays disaster after disaster, informs the world of its most flagrant faults. I try out some of the gestures he makes. I imagine someone gesturing to me. <br> 
-
-## Theatrical Monologue 
-
-**Two monologue excerpts from *Fish*, a play in one act:** 
-
-<u>Monologue #1:</u> <br>
-
-**NOAH:** A prologue—an exordium in which I show you the end, which is perhaps an arbitrary moment, perhaps something more: a turning point, a failure, an achievement, no doubt a sum of all things prior—the feelings, thoughts, and actions. Decisions… a man broken down to nothing—or perhaps a man set free. Both or neither. I can tell you for certain it was hot—disgustingly hot. The air weighed too much; it pushed down on shoulders, creating an uncomfortable closeness, making clothes stick to a body like a second skin, another layer to tear through, to crawl out from, to hide beneath. Isn’t it the case that we are all always retreating beneath or clawing through our own skin? <br>
-
-<u>Monologue #2:</u> <br>
-
-**EMILY:** The leaves turn quickly from one color to the next, but every year there’s a brief window when just about all of them are red. If you go up on the mountain and look down, it looks like the entire town is on fire. That Autumn was mild, warm even. The leaves stayed red longer than usual. The town seemed to burn for weeks. It was a good few months. Everything was on fire. Everything was good. <br>
 
 ## Epistolary
 
