@@ -55,7 +55,19 @@ Should you fail to continue reading, know that you will also fail to learn the s
 
 ## Contemporary Fiction 
 
+The night looked so deep that it hurt; my chest ached as I looked into the stars. The falling snow and the tiny pinpricks of burning light swirled into one another until they were a melded, single entity in my view: a sparkling, cold infinity. I considered heaven, but the thought faded as quickly as it came. The fact of the matter was this: heaven could be nowhere as beautiful as the expanse above me. Nowhere close. I needed to believe that. <br>
 
+And so I stood. I stood and watched my breath move across the air, jagged and fading. Things were always fading: time, ambition, bodies, bonds, lives. <br>
+
+It felt like hours. <br>
+
+It felt like years. <br>
+
+It felt like I lived ten lives within the span of that small moment. <br>
+
+Finally, my neck tightened and began aching. Slowly, I brought my gaze back down to earth, back down to the field, back down to my brother’s home, what used to be my parents’ home—what used to be our home. <br>
+
+I hadn’t been there in years. <br>
 
 ## Hemmingway-Style 
 
