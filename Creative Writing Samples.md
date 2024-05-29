@@ -4,7 +4,7 @@
 
 [1. Direct Address](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#direct-address) <br>
 [2. Literary Fiction](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#literary-fiction) <br>
-[3. Theatrical Monologue](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#literary-fiction) <br>
+[3. Theatrical Monologue](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#theatrical-monologue) <br>
 [4. Contemporary Fiction](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#contemporary-fiction) <br>
 [5. Hemmingway-Style](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#hemmingway-style) <br>
 [6. Epistolary](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#epistolary) <br>
