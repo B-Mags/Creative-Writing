@@ -47,7 +47,7 @@ Just as the thought crossed my mind, I saw a black speck appear, harsh against t
 
 ## Theatrical Monologue 
 
-**Two monologue excerpted from *Fish*, a play in one act:** 
+**Two monologue excerpted from *Fish*, a play in one act** 
 
 <u>Monologue #1:</u> <br>
 
@@ -77,7 +77,7 @@ I hadn’t been there in years. <br>
 
 ## Hemmingway-Style 
 
-**Excerpted from "Cul-de-Sac":**
+**Excerpted from "Cul-de-Sac"**
 
 I live at 182 Morton Street. My house sits at the exact center of the cul-de-sac with three houses on either side, equidistant, geometric: a perfect vantage point. There are forty-two other houses in the subdivision. The grass is green. The people are chipper, not kind. There’s a difference. But it’s a bland routine they live, stale. The men leave in the morning, suit and tie, come back late in the evening after indulging in what they think is a torrid affair, when in all actuality, it, too, is just as overplayed and lifeless as their marriages. The women are pants-suit-super-moms. They rush about in expensive SUVs, clutching briefcases, holding on for dear life, remaining oblivious to their husbands for what I would label self-preservation. <br> 
     	
@@ -110,7 +110,7 @@ Yours <br>
 
 ## Myth
 
-**Excerpt from "Among the Reeds":**
+**Excerpt from "Among the Reeds"**
 
 Cobourne was a small town and, like all other places, had its own lore.
 	
@@ -162,7 +162,8 @@ time and again. <br>
 
 ## Musical Theatre Lyric 
 
-**Excerpted from "Lydia" a short musical (\*featured at NYC's Prospect Theatre Company's Musical Theatre Lab, 2019):** 
+**Excerpted from "Lydia" a short musical** <br> 
+* *featured at NYC's Prospect Theatre Company's Musical Theatre Lab, 2019)* <br> 
 
 LYDIA, <br>
 MY LYDIA— <br>
@@ -171,7 +172,8 @@ THE LEAVES IN THE BREEZE, <br>
 THE YELLOW ON THE BEES: <br>
 ALWAYS THERE; I’LL NEVER LEAVE YOUR SIDE. <br>
 
-**Excerpted from *Bohemia Burning*, a musical (\*received a 29-hour equity reading, 2018):** 
+**Excerpted from *Bohemia Burning*, a musical** <br> 
+* *received a 29-hour equity reading, 2018):* <br>
 
 WHAT WILL NICK SEE WHEN HE LOOKS? <br>
 WILL HE KNOW I’M NOT WHO HE REMEMBERS? <br>
