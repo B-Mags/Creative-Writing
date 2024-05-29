@@ -163,7 +163,7 @@ time and again. <br>
 ## Musical Theatre Lyric 
 
 **Excerpted from "Lydia" a short musical** <br> 
-* *featured at NYC's Prospect Theatre Company's Musical Theatre Lab, 2019)* <br> 
+* \*featured at NYC's Prospect Theatre Company's Musical Theatre Lab, 2019)* <br> 
 
 LYDIA, <br>
 MY LYDIA— <br>
@@ -173,7 +173,7 @@ THE YELLOW ON THE BEES: <br>
 ALWAYS THERE; I’LL NEVER LEAVE YOUR SIDE. <br>
 
 **Excerpted from *Bohemia Burning*, a musical** <br> 
-* *received a 29-hour equity reading, 2018):* <br>
+* \*received a 29-hour equity reading, 2018):* <br>
 
 WHAT WILL NICK SEE WHEN HE LOOKS? <br>
 WILL HE KNOW I’M NOT WHO HE REMEMBERS? <br>
