@@ -25,7 +25,7 @@
 
 ## Direct-Address 
 
-**An excerpt from Beatrice Mooney in Perpetuity \(\*a Writers of the Future honorary mention, 2023\):**
+**Excerpted from "Beatrice Mooney in Perpetuity" \(\*a Writers of the Future honorary mention, 2023\):**
 
 Shall we begin with my childhood? <br> 
 
@@ -39,11 +39,21 @@ Should you fail to continue reading, know that you will also fail to learn the s
 
 ## Literary Fiction 
 
+**Excerpted from "A Winter Lark"**
 
+Set before me was a bitter winter—one of chilling wind and skin-cracking, dry cold. The storm threatened, beyond my home and possessions, my life. Oft, I wondered what should make me remain in a place so hostile. I reasoned—after considerable deliberation, for great storms allow time for such meditation—that certainly any other place must have its own hostilities, and it was all very well that I stay put and endure the hostilities in which I was versed and for which I was equipped. <br>
+
+Three days after the storm began—the first of the season—the dunes of snow swept up above the top of my home, forcing me to utilize the hatch built into the ceiling of my kitchen to access the world—the hatch which I built during the previous mild season to avoid complications of winters past. From my rooftop perch, I could see no candlelit windows for the impenetrable blanket impeding my vision, comprised of the fast-falling, near fist-sized flakes and the many-foot-deep accumulation covering a ground that long ago forgot to grow life and homes that long ago forgot to house it. <br>
+
+I mentioned the mild season. It is imperative, you see, to consider mild a relative term as one must always consider descriptive language. To define the mild season would not be to evince a temperate climate one may associate with bonfires and general outdoor pleasantness. No—plainly speaking, the mild season is simply a tolerable winter. This was not the case even four years prior; green and red and yellow and brown existed in the world before—flooded it, even. If I dig into the furthest recesses of my mind, I can still recall the colors in their most brilliant forms, earthy and rich, bringing with them smells of decay and rebirth. But now, there is only white; now, life is different. <br>
+
+That night—the third night of the worst storm—there on the roof, all candlelight obscured—if the candlelight even existed at all—I found myself pondering the vast whiteness, the seemingly blank, impressionable new world, as I did many nights before and would many nights after. I let the cold numb me from my skin to my bones and imagined life a waltz—a somber, but comforting one-two-three, two-two-three, three-two-three pulsing through the snow—a wandering, but always returning, melody making its way out into the distance and back to me on my rooftop. I thought how nice it would be to share the waltz with someone, anyone. <br>
+	
+Just as the thought crossed my mind, I saw a black speck appear, harsh against the white. I thought surely it was trickery. I’d experienced the hallucinations before, a byproduct of so much time on one’s own, I suspected. I’d grown used to them, fond of them and their company, even. But as the speck approached and became a figure walking onto my roof, it became difficult to accept as trickery over providence. <br>
 
 ## Theatrical Monologue 
 
-**Two monologue excerpts from *Fish*, a play in one act:** 
+**Two monologue excerpted from *Fish*, a play in one act:** 
 
 <u>Monologue #1:</u> <br>
 
@@ -54,6 +64,8 @@ Should you fail to continue reading, know that you will also fail to learn the s
 **EMILY:** The leaves turn quickly from one color to the next, but every year there’s a brief window when just about all of them are red. If you go up on the mountain and look down, it looks like the entire town is on fire. That Autumn was mild, warm even. The leaves stayed red longer than usual. The town seemed to burn for weeks. It was a good few months. Everything was on fire. Everything was good. <br>
 
 ## Contemporary Fiction 
+
+**Excerpted from "About the Loving"**
 
 The night looked so deep that it hurt; my chest ached as I looked into the stars. The falling snow and the tiny pinpricks of burning light swirled into one another until they were a melded, single entity in my view: a sparkling, cold infinity. I considered heaven, but the thought faded as quickly as it came. The fact of the matter was this: heaven could be nowhere as beautiful as the expanse above me. Nowhere close. I needed to believe that. <br>
 
@@ -71,7 +83,7 @@ I hadn’t been there in years. <br>
 
 ## Hemmingway-Style 
 
-**An excerpt from "Cul-de-Sac":**
+**Excerpted from "Cul-de-Sac":**
 
 I live at 182 Morton Street. My house sits at the exact center of the cul-de-sac with three houses on either side, equidistant, geometric: a perfect vantage point. There are forty-two other houses in the subdivision. The grass is green. The people are chipper, not kind. There’s a difference. But it’s a bland routine they live, stale. The men leave in the morning, suit and tie, come back late in the evening after indulging in what they think is a torrid affair, when in all actuality, it, too, is just as overplayed and lifeless as their marriages. The women are pants-suit-super-moms. They rush about in expensive SUVs, clutching briefcases, holding on for dear life, remaining oblivious to their husbands for what I would label self-preservation. <br> 
     	
@@ -104,7 +116,7 @@ Yours <br>
 
 ## Myth
 
-**An excerpt from "Among the Reeds":**
+**Excerpt from "Among the Reeds":**
 
 Cobourne was a small town and, like all other places, had its own lore.
 	
@@ -156,7 +168,7 @@ time and again. <br>
 
 ## Musical Theatre Lyric 
 
-**An excerpt from "Lydia" a short musical (\*featured at NYC's Prospect Theatre Company's Musical Theatre Lab, 2019):** 
+**Excerpted from "Lydia" a short musical (\*featured at NYC's Prospect Theatre Company's Musical Theatre Lab, 2019):** 
 
 LYDIA, <br>
 MY LYDIA— <br>
@@ -165,7 +177,7 @@ THE LEAVES IN THE BREEZE, <br>
 THE YELLOW ON THE BEES: <br>
 ALWAYS THERE; I’LL NEVER LEAVE YOUR SIDE. <br>
 
-**An excerpt from *Bohemia Burning*, a musical (\*received a 29-hour equity reading, 2018):** 
+**Excerpted from *Bohemia Burning*, a musical (\*received a 29-hour equity reading, 2018):** 
 
 WHAT WILL NICK SEE WHEN HE LOOKS? <br>
 WILL HE KNOW I’M NOT WHO HE REMEMBERS? <br>
