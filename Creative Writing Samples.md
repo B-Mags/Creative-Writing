@@ -19,7 +19,7 @@
 ## Direct-Address 
 
 **Excerpted from "Beatrice Mooney in Perpetuity" <br>
-\(\*a Writers of the Future honorary mention, 2023\):** <br>
+\*a Writers of the Future honorary mention, 2023:** <br>
 
 Shall we begin with my childhood? <br> 
 
