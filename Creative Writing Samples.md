@@ -5,15 +5,15 @@
 #### These samples highlight various styles, forms, and devices. Scroll through, or click on one of the quick links below. <br>
 *Please note that all samples are copyrighted.* 
 
-[1. Direct Address](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#direct-address) <br>
-[2. Literary Fiction](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#literary-fiction) <br>
-[3. Theatrical Monologue](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#theatrical-monologue) <br>
-[4. Contemporary Fiction](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#contemporary-fiction) <br>
-[5. Hemmingway-Style](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#hemmingway-style) <br>
-[6. Epistolary](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#epistolary) <br>
-[7. Myth](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#myth) <br>
-[8. Poetry](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#poetry) <br>
-[9. Musical Theatre Lyric](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#musical-theatre-lyric) <br>
+→ [1. Direct Address](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#direct-address) <br>
+→ [2. Literary Fiction](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#literary-fiction) <br>
+→ [3. Theatrical Monologue](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#theatrical-monologue) <br>
+→ [4. Contemporary Fiction](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#contemporary-fiction) <br>
+→ [5. Hemmingway-Style](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#hemmingway-style) <br>
+→ [6. Epistolary](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#epistolary) <br>
+→ [7. Myth](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#myth) <br>
+→ [8. Poetry](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#poetry) <br>
+→ [9. Musical Theatre Lyric](https://github.com/B-Mags/Creative-Writing/blob/main/Creative%20Writing%20Samples.md#musical-theatre-lyric) <br>
 <br>
 
 ## Direct-Address 
