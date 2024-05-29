@@ -1,3 +1,6 @@
+**[RETURN HOME](https://github.com/B-Mags)** <br>
+<br>
+
 # Creative Writing Samples by Brooke Magalis
 #### These samples highlight various styles, forms, and devices. Scroll through, or click on one of the quick links below. <br>
 *Please note that all samples are copyrighted.* 
